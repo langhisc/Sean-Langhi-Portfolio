@@ -6,4 +6,6 @@ Most of these samples are images or PDFs that can be opened and viewed directly 
 
 This portfolio is intended to enrich job applications, which may include a direct link to it.
 
+**Please click on the "Work samples" folder above to browse the items.**
+
 Enjoy!
