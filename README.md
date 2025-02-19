@@ -1,4 +1,4 @@
-# Sean Langhi's Portfolio
+# Aster Langhi's Portfolio
 
 This repository contains work samples of technical writing, cross-functional collaboration, software architecture, engineering productivity development, design thinking, and general written communication.
 
